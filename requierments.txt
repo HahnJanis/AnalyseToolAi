@@ -1,0 +1,4 @@
+streamlit
+numpy_financial
+pandas==1.5.3
+
